@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: cyan;
+}
+
+.alumni{
+    width: 200px;
+    height: 209;
+}
+
+.img_modal{
+    width: 40%;
+}
+
+#gif{
+    -webkit-box-reflect: right 20%;
+    margin-right: 40%;
+
+}
+
+.modal_content{
+    margin: 10%
+}
+
+.img_responsive{
+    border: 5px solid black;
+    align-self: center;
+}
